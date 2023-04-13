@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!docker-compose.yaml
+
+!shell/
+
+!*/*.sh
+!*.md
